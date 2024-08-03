@@ -1,0 +1,45 @@
+DSA by Google: https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?programming_languages=python
+
+https://alumni.infosys.com/app-welcome
+
+---------------------------------
+
+  cmd>>git clone HTTPS url                
+     >>cd github-to-lambda-demo
+	 >>git checkout -b test               
+     >>git status
+	 >>git add .                           (. -> all modified files)
+	 >>git commit -m "text"
+	 >>git push origin test (or git push origin main in case branch name is main or git push origin dev in case branch name is dev)
+	 
+	new commands:
+>>git diff
+
+----------------
+
+8 am to 10 am daily: Update Naukri and Linkedin and apply job (Consistency will push profile on top searches)
+data warehousing
+spark/pyspark
+python libraries for data engineer
+DSA basis to intermediate
+SQL
+case studies 
+
+------------------------------
+
+Analytical ability & problem solving
+SQL
+AWS
+Data Modelling
+Data Warehousing
+Python
+
+excel and BI tool PowerBI
+
+-----------------------------------
+
+
+business analyst
+geeks for geeks and hackerrank -> SQL practise
+https://www.iimjobs.com/
+case studies and guestimates
