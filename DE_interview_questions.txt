@@ -1,0 +1,141 @@
+--------------------------------------------------------------------------
+
+Here are 10 must-know questions for data engineering interviews, covering all the essentials:
+
+📍 Describe your experience with data modeling. How do you approach designing a data model for a new system?
+
+📍 Explain the difference between a data warehouse and a data lake. How would you decide which one to use for a given scenario?
+
+📍 Discuss how you ensure data quality and integrity in large datasets.
+
+📍 How have you used platforms like Hadoop or Spark in past projects?
+
+📍 Can you explain the concept of data partitioning and its importance in data engineering?
+
+📍 Describe a challenging data engineering project you worked on. What was your role, and how did you contribute to its success?
+
+📍 How do you approach data security and privacy in your projects? Can you give examples of how you implemented these measures?
+
+📍 Discuss your experience with cloud-based data engineering tools and platforms. Which ones have you used, and what are their advantages and disadvantages?
+
+📍 How do you handle real-time data processing, and what technologies do you use?
+
+📍 Can you explain the ETL (Extract, Transform, Load) process and how you optimize it for large datasets?
+
+-----------------------------------------------------------------------------------------------
+Here are 10 intermediate-level PySpark interview questions that can help you prepare:
+
+📍 Explain the difference between transformations and actions in PySpark. 
+
+📍 How does PySpark handle fault tolerance and data recovery? 
+
+📍 Can you describe how PySpark's DAG (Directed Acyclic Graph) scheduler works?
+
+📍 What is the significance of partitioning in PySpark, and how can it affect performance?
+
+📍 How would you perform iterative operations in PySpark, and why are they challenging? 
+
+📍 What are broadcast variables and accumulators in PySpark? 
+
+📍 Explain the concept of narrow and wide transformations in PySpark and their impact on performance. 
+
+📍 How does PySpark integrate with other components of the Hadoop ecosystem, such as HDFS and YARN?
+
+📍 Describe a scenario where you would use the PySpark DataFrame API over RDDs. 
+
+📍 How can you manage and optimize the memory usage of your PySpark application?
+
+
+
+-----------------------------------------------------------------------------------------------
+𝗔𝗽𝗮𝗰𝗵𝗲 𝗦𝗽𝗮𝗿𝗸
+
+What is Spark and why is it preferred over MapReduce?
+Explain the difference between transformation and action in Spark.
+How does Spark handle fault tolerance?
+What is the significance of caching in Spark?
+Explain the concept of broadcast variables in Spark.
+What is the role of Spark SQL in data processing?
+How does Spark handle memory management?
+Discuss the significance of partitioning in Spark.
+Explain the difference between RDDs, DataFrames, and Datasets.
+What are the different deployment modes available in Spark?
+
+𝗛𝗮𝗱𝗼𝗼𝗽
+
+What is HDFS and how does it differ from traditional file systems?
+Explain the architecture of HDFS.
+How does HDFS ensure fault tolerance?
+What is the default block size in HDFS?
+How does HDFS handle data replication?
+Describe the process of reading and writing data in HDFS.
+What is the role of the Namenode and Datanode in HDFS?
+How is data integrity maintained in HDFS?
+Discuss the significance of block placement in HDFS.
+How can you troubleshoot issues in HDFS?
+
+𝗛𝗶𝘃𝗲
+
+What is Hive and how does it relate to Hadoop ecosystem?
+Explain the difference between external and managed tables in Hive.
+How does Hive optimize queries?
+What is the metastore in Hive and why is it important?
+What are Hive partitions and how are they useful?
+Discuss the role of HiveQL in querying data.
+How does Hive support ACID transactions?
+Explain the process of data ingestion in Hive.
+How can you improve Hive query performance?
+
+𝗔𝗶𝗿𝗳𝗹𝗼𝘄
+
+What is Apache Airflow and why is it used?
+Explain the key components of Airflow.
+How does Airflow handle task dependencies?
+Discuss the role of the Airflow scheduler.
+How does Airflow support dynamic workflows?
+How can you monitor and troubleshoot workflows in Airflow?
+Explain the concept of XComs in Airflow.
+
+
+-----------------------------------------------------------------------------------------------
+
+
+PySpark Data Engineer Interview experience at Big 4 - KPMG India Deloitte EY PwC (4 YoE)
+
+𝐏𝐲𝐒𝐩𝐚𝐫𝐤 𝐁𝐚𝐬𝐢𝐜𝐬:
+Explain the basic architecture of PySpark.
+How does PySpark relate to Apache Spark, and what advantages does it offer in distributed data processing?
+
+𝐃𝐚𝐭𝐚𝐅𝐫𝐚𝐦𝐞 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬:
+Describe the difference between a DataFrame and an RDD in PySpark.
+Can you explain transformations and actions in PySpark DataFrames?
+Provide examples of PySpark DataFrame operations you frequently use.
+
+𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐏𝐲𝐒𝐩𝐚𝐫𝐤 𝐉𝐨𝐛𝐬:
+How do you optimize the performance of PySpark jobs?
+Can you discuss techniques for handling skewed data in PySpark?
+
+𝐃𝐚𝐭𝐚 𝐒𝐞𝐫𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐫𝐞𝐬𝐬𝐢𝐨𝐧:
+Explain how data serialization works in PySpark.
+Discuss the significance of choosing the right compression codec for your PySpark applications.
+
+𝐇𝐚𝐧𝐝𝐥𝐢𝐧𝐠 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐃𝐚𝐭𝐚:
+How do you deal with missing or null values in PySpark DataFrames?
+Are there any specific strategies or functions you prefer for handling missing data?
+
+𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐒𝐩𝐚𝐫𝐤 𝐒𝐐𝐋:
+Describe your experience with PySpark SQL.
+How do you execute SQL queries on PySpark DataFrames?
+
+𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐢𝐧 𝐏𝐲𝐒𝐩𝐚𝐫𝐤:
+What is broadcasting, and how is it useful in PySpark?
+Provide an example scenario where broadcasting can significantly improve performance.
+
+𝐉𝐨𝐛 𝐌𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠 𝐚𝐧𝐝 𝐋𝐨𝐠𝐠𝐢𝐧𝐠:
+How do you monitor and troubleshoot PySpark jobs?
+Describe the importance of logging in PySpark applications.
+
+𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐎𝐭𝐡𝐞𝐫 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:
+Have you integrated PySpark with other big data technologies or databases? If so, please provide examples.
+How do you handle data transfer between PySpark and external systems?
+-----------------------------------------------------------------------------------------------

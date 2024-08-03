@@ -1,0 +1,41 @@
+SSIS Developer Interview Questions
+SSIS Basics:
+
+What is SSIS and why is it used?
+Can you explain the architecture of SSIS?
+What are the key components of SSIS?
+SSIS Packages:
+
+How do you create an SSIS package?
+What are the different types of SSIS packages?
+How do you deploy an SSIS package?
+Control Flow and Data Flow:
+
+What is the difference between Control Flow and Data Flow in SSIS?
+Can you explain the purpose of a Data Flow Task?
+What are Precedence Constraints and how are they used in SSIS?
+Transformations:
+
+What are the different types of transformations available in SSIS?
+Can you explain the use of the Lookup Transformation?
+How do you handle data type conversions in SSIS?
+Error Handling:
+
+How do you handle errors in SSIS?
+Can you explain the use of Event Handlers in SSIS?
+What are some common error-handling techniques you have used?
+Performance Tuning:
+
+How do you optimize SSIS packages for better performance?
+What are some best practices for SSIS package design?
+Can you explain the use of parallelism in SSIS?
+Deployment and Security:
+
+How do you secure SSIS packages?
+What are the different deployment models in SSIS?
+How do you configure package protection levels?
+Advanced Topics:
+
+Can you explain the use of Script Task and Script Component?
+How do you handle dynamic configurations in SSIS?
+What are SSIS parameters and how are they used?

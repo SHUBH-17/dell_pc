@@ -1,0 +1,71 @@
+SQL Interview Questions
+
+----------------------------------
+Basic SQL:
+----------------------------------
+What are the different types of SQL commands?
+How do you create a table in SQL?
+What is a primary key?
+Joins and Subqueries:
+
+Can you explain the different types of joins in SQL?
+What is a subquery and how is it used?
+How do you use a correlated subquery?
+Indexes and Performance:
+
+What is an index and why is it important?
+How do you create an index in SQL?
+What are some common techniques for optimizing SQL queries?
+Stored Procedures and Functions:
+
+What is the difference between a stored procedure and a function?
+How do you create a stored procedure?
+What are the advantages of using stored procedures?
+Transactions and Locks:
+
+What is a transaction in SQL?
+How do you implement transactions in SQL?
+What are locks and how do they affect database performance?
+Data Integrity and Constraints:
+
+What are the different types of constraints in SQL?
+How do you implement data integrity in SQL?
+What is the purpose of a foreign key?
+Advanced SQL:
+
+What are CTEs (Common Table Expressions) and how are they used?
+How do you use window functions in SQL?
+Can you explain the use of triggers in SQL?
+Practical Scenarios:
+
+How do you find duplicate records in a table?
+How do you perform a bulk insert in SQL?
+Can you write a query to get the second highest salary from a table?
+Preparing for these questions will help you demonstrate a solid understanding of both SSIS and SQL, showcasing your technical skills and problem-solving abilities.
+
+
+--------------------------------------------------------------------------
+
+10 recently asked SQL questions for Data Engineer 2024.
+
+1.How would you use window functions in SQL to calculate a moving average over a set of rows grouped by a specific column?
+
+2.Write a query using a CTE to find the nth highest salary in a company.
+
+3.Explain how you would optimize a slow-running query. Include your approach to indexing and any specific SQL features you might use.
+
+4.Describe how you would design a database schema for a large-scale e-commerce platform, focusing on the order management system. Include considerations for scalability and data integrity.
+
+5.Given a specific query, identify potential performance bottlenecks and suggest optimizations to improve its execution time.
+
+6.Explain the importance of ACID properties in database transactions and how you would implement them in a SQL environment.
+
+7.How would you optimize a query that involves multiple joins and subqueries to reduce execution time without altering the output?
+
+8.Discuss the differences between OLTP and OLAP systems. How would you structure a query to efficiently retrieve aggregated data from a large data warehouse?
+
+9.Explain the concepts of partitioning and sharding in databases. How would you apply these concepts to manage and query large datasets efficiently?
+
+10.Write a SQL query that uses advanced aggregation functions (e.g., ROLLUP, CUBE) to provide insights into sales data, such as total sales per region, per product, and overall.
+
+-----------------------------------------------------------------------------------------------

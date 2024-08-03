@@ -1,0 +1,84 @@
+-----------
+Templates:
+-----------
+Interview Introduction:
+
+Good Evening,
+My Name is Shubham Maddhesia.
+
+I did my graduation from Galgotias University in Bachelor of Technology (Computer Science & Engineering).
+I have a total experience of 3 years in IT.
+I started my journey in IT as an Intern at Infosys in February 2021 which later was converted to full time employment.
+In July 2021 I started working as an ETL developer where developed my skills in SSIS, SQL, C# and batch scripting with little exposure to Microstrategy BI tool for creating reports on stored data.
+
+I have also exposed myself into AWS cloud services and have built projects on top of it and currently looking for a new opportunity.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Work Experience:
+----------------------
+ETL Pipelines
+----------------------
+Designed, developed, and maintained ETL processes using SSIS to extract, transform, and load data from diverse sources into the
+data warehouse and generate insightful reports based on the stored data, facilitating informed decision-making.
+
+----------------------
+Data Analysis
+----------------------
+Conducted analysis of production tickets pertaining to data quality issues raised by clients.
+
+-----------------------------------------------------------
+Enhancements of existing Pipelines
+-----------------------------------------------------------
+Implemented minor enhancements in existing stored procedures, views, SSIS packages, and jobs to align with client requirements.
+
+
+------------
+Primary works
+1.Enhancing existing ETL pipelines
+2.Building new ETL pipelines from scratch 
+  This includes writing batch scripts, creating SSIS packages, writing stored procedures and creating reports on top of the stored data.
+3.Analysis on Issues raised by clients (issues like Data discrepnacy, missing data, incorrect data)
+4.Migration projects
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Referral:
+
+Subject: Request for Referral for SQL Developer Role with SSIS || Immediate Joiner
+
+Hi,
+
+I hope you're doing well. I am writing to ask for your help with a referral for a SQL Developer position with SSIS at TCS.
+
+I have over three years of experience in SQL, specializing in SSIS. My background includes a strong understanding of data warehousing and ETL concepts, proficiency in SQL and stored procedures. Additionally, I have excellent problem-solving and analytical skills, strong communication and teamwork abilities, and a proven track record of working independently to meet deadlines.
+
+I am confident that my skills and experience align well with the requirements of this role, and I would be grateful if you could refer me to the hiring team at TCS as I am also an Immediate Joiner.
+
+Thank you for your consideration and support.
+
+Best regards,
+Shubham
+
+JOB URL: 
+
+JD:
+Role : SQL Developer with SSIS (SQL Server Integration Services)
+Qualifications:
+3+ years of experience as a SQL Developer with experience in SSIS.
+Strong understanding of data warehousing and ETL concepts.
+Proficiency in T-SQL and stored procedures.
+Experience with relational database design and optimization.
+Excellent problem-solving and analytical skills.
+Strong communication and teamwork skills.
+Ability to work independently and meet deadlines.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
